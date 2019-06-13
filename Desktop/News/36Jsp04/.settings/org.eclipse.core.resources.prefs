@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/database.properties=UTF-8
+encoding//src/org/news/dao=UTF-8
+encoding//src/org/news/entity=UTF-8
+encoding//src/org/news/util/ConfigManager.java=UTF-8
