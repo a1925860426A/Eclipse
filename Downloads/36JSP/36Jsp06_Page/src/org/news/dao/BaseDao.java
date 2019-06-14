@@ -1,5 +1,5 @@
 package org.news.dao;
-
+//我真厉害哈哈哈哈
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
